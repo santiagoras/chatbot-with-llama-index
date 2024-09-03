@@ -1,0 +1,8 @@
+{
+    "package_display_name": "Package-Name",
+    "project_name": "project_name",
+    "package_name": "{{cookiecutter.package_display_name.lower().replace(' ', '_').replace('-', '_')}}",
+    "author_name": "Mutt Data",
+    "author_email": "info@muttdata.ai",
+    "description": "A short description of the project."
+}
